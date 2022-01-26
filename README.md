@@ -14,5 +14,5 @@ Truffle configured to run on Ropsten network:
 1. create .env file - npm install dotenv --save
 2. MNEMONIC - "paste your MNEMONIC in the dotenv file"
 3. Instead of (2) create MNEMONIC variable in Truffle-config file. Replace "process.env.MNEMONIC" with MNEMONIC variable.
-4. Set your infura endpoint as well.
+4. Set your infura-ropsten endpoint as well.
 
